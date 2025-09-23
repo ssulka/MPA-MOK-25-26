@@ -19,16 +19,19 @@ The credit is required for final exam admission and is awarded upon obtaining at
 
 ## Laboratories:
 - **Laboratory 1** - [Introduction to python](labs/lab1/README.md)
+- **Laboratory 2** - [Numpy library and Lattice](labs/lab2/README.md)
 ---
 
 ## Classes:
 - **Lecture 1** - [Introduction](https://moodle.vut.cz/pluginfile.php/1195360/mod_resource/content/1/1.pdf)
+- [Post-Quantum Cycles]
+  - **Lecture 2** - [Introduction to Lattice-based Cryptography](https://moodle.vut.cz/pluginfile.php/1217519/mod_resource/content/1/2.pdf)
 --- 
 
 ## Projects:
 Projects are based on publications, i.e. articles on topics taught in this course. 
 
-- [This link](https://docs.google.com/spreadsheets/d/1Ut8_3SziW5eJhC9nHDsoSbM5gFB3QUdd/edit?gid=1977040017#gid=1977040017) allows 
+- [This link](https://docs.google.com/spreadsheets/d/1FCWbsom6NZaOh0ywa8v_JH9De5t87Zi6XLzHFwRuGgY/edit?gid=1977040017#gid=1977040017) allows 
   - checking the list of chosen article for this year 
   - seeing suggested articles for the projects
 - The best projects can become publications in [EEICT workshop](https://www.eeict.cz/) where **awards** are given to the best articles.
