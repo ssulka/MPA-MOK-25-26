@@ -72,7 +72,7 @@ p1 = P(coef_poly)
 print(p1)
 ```
 
-Please check [Laboratory 2](https://github.com/xcibik00/MPA-MOK/tree/cibik_readme/labs/lab2) for more details on how to generate an array mod 11 at random.
+Please check [Laboratory 2](https://github.com/xtranm/MPA-MOK-25-26/blob/main/labs/lab2/README.md) for more details on how to generate an array mod 11 at random.
 
 ## Computations with polynomials
 
