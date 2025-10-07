@@ -21,6 +21,7 @@ The credit is required for final exam admission and is awarded upon obtaining at
 - **Laboratory 1** - [Introduction to python](labs/lab1/README.md)
 - **Laboratory 2** - [Numpy library and Lattice](labs/lab2/README.md)
 - **Laboratory 3** - [LWE problem and Regev scheme](labs/lab3/README.md)
+- **Laboratory 4** - [PQC](labs/lab4/README.md)
 ---
 
 ## Classes:
@@ -28,6 +29,7 @@ The credit is required for final exam admission and is awarded upon obtaining at
 - [Post-Quantum Cycles]
   - **Lecture 2** - [Introduction to Lattice-based Cryptography](https://moodle.vut.cz/pluginfile.php/1217519/mod_resource/content/1/2.pdf)
   - **Lecture 3** - [Lattice-based Cryptography on LWE and R-LWE problems](https://moodle.vut.cz/pluginfile.php/1222768/mod_resource/content/2/3.pdf)
+  - **Lecture 4** - [Kyber, Saber and Dilithium](https://moodle.vut.cz/pluginfile.php/1225008/mod_resource/content/2/4.pdf)
 --- 
 
 ## Projects:
